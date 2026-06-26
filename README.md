@@ -8,8 +8,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshjoshi11/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infojoshidevansh11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1510?style=for-the-badge&logo=linkedin&logoColor=f5c451)](https://www.linkedin.com/in/devanshjoshi11/)
+[![Email](https://img.shields.io/badge/Email-1a1510?style=for-the-badge&logo=gmail&logoColor=f5c451)](mailto:infojoshidevansh11@gmail.com)
 
 </div>
 
@@ -34,7 +34,22 @@ That lens runs through everything I build. **MarketLab AI** grew directly out of
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,python,react,nextjs,nodejs,express,tailwind,postgres,prisma,supabase,git,vercel&theme=dark&perline=7" alt="Tech stack" />
+![Java](https://img.shields.io/badge/Java-1a1510?style=for-the-badge&logo=openjdk&logoColor=f5c451)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1510?style=for-the-badge&logo=typescript&logoColor=f5c451)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1510?style=for-the-badge&logo=javascript&logoColor=f5c451)
+![Python](https://img.shields.io/badge/Python-1a1510?style=for-the-badge&logo=python&logoColor=f5c451)
+
+![React](https://img.shields.io/badge/React-1a1510?style=for-the-badge&logo=react&logoColor=f5c451)
+![Next.js](https://img.shields.io/badge/Next.js-1a1510?style=for-the-badge&logo=nextdotjs&logoColor=f5c451)
+![Node.js](https://img.shields.io/badge/Node.js-1a1510?style=for-the-badge&logo=nodedotjs&logoColor=f5c451)
+![Express](https://img.shields.io/badge/Express-1a1510?style=for-the-badge&logo=express&logoColor=f5c451)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1510?style=for-the-badge&logo=tailwindcss&logoColor=f5c451)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1510?style=for-the-badge&logo=postgresql&logoColor=f5c451)
+![Prisma](https://img.shields.io/badge/Prisma-1a1510?style=for-the-badge&logo=prisma&logoColor=f5c451)
+![Supabase](https://img.shields.io/badge/Supabase-1a1510?style=for-the-badge&logo=supabase&logoColor=f5c451)
+![Git](https://img.shields.io/badge/Git-1a1510?style=for-the-badge&logo=git&logoColor=f5c451)
+![Vercel](https://img.shields.io/badge/Vercel-1a1510?style=for-the-badge&logo=vercel&logoColor=f5c451)
 
 </div>
 
@@ -46,20 +61,20 @@ That lens runs through everything I build. **MarketLab AI** grew directly out of
 
 A market-simulation platform that lets founders pressure-test demand before they commit to building. The engine runs a four-method modeling stack — Bass diffusion, agent-based modeling, random-utility logit, and Monte Carlo — to produce ranged P10 / P50 / P90 forecasts, layered with an LLM inference engine calibrated against diffusion-of-innovations theory. Deliberately built as a risk-signal engine for founders, not a revenue-forecasting toy.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-241c14?style=flat-square&logo=typescript&logoColor=d89a2e)
+![Express](https://img.shields.io/badge/Express-241c14?style=flat-square&logo=express&logoColor=d89a2e)
+![Prisma](https://img.shields.io/badge/Prisma-241c14?style=flat-square&logo=prisma&logoColor=d89a2e)
+![React](https://img.shields.io/badge/React-241c14?style=flat-square&logo=react&logoColor=d89a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-241c14?style=flat-square&logo=postgresql&logoColor=d89a2e)
 
 ### Staqd &nbsp;—&nbsp; Backend Engineer
 
 A research-paper knowledge hub that turns the arXiv firehose into a readable, searchable feed. I own the backend: a daily ingestion pipeline (arXiv → Gemini summarization → database) running on Supabase Edge Functions, plus live document-upload processing and a continuously refreshed knowledge feed.
 
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Supabase](https://img.shields.io/badge/Supabase-241c14?style=flat-square&logo=supabase&logoColor=d89a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-241c14?style=flat-square&logo=typescript&logoColor=d89a2e)
+![Gemini](https://img.shields.io/badge/Gemini%20API-241c14?style=flat-square&logo=googlegemini&logoColor=d89a2e)
+![React](https://img.shields.io/badge/React-241c14?style=flat-square&logo=react&logoColor=d89a2e)
 
 ### Halt &nbsp;·&nbsp; CampusCompass
 
@@ -73,12 +88,16 @@ A research-paper knowledge hub that turns the arXiv firehose into a readable, se
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DJ-Joshi11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-Joshi11&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="top langs" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=DJ-Joshi11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1510&title_color=f5c451&icon_color=d89a2e&text_color=cdbb98&ring_color=f5c451" alt="stats" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-Joshi11&hide_border=true&layout=compact&langs_count=8&bg_color=1a1510&title_color=f5c451&text_color=cdbb98" alt="top langs" />
 
-<img width="98%" src="https://streak-stats.demolab.com?user=DJ-Joshi11&theme=tokyonight&hide_border=true" alt="streak" />
+<br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DJ-Joshi11&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=39d353&line=39d353&point=ffffff" alt="contribution graph" />
+<img height="150" src="https://streak-stats.demolab.com?user=DJ-Joshi11&hide_border=true&background=1a1510&border=1a1510&stroke=2a2017&ring=d89a2e&fire=f5c451&currStreakLabel=f5c451&currStreakNum=f7ecd6&sideLabels=cdbb98&sideNums=f7ecd6&dates=998a6a" alt="streak" />
+
+<br/>
+
+<img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=DJ-Joshi11&hide_border=true&area=true&bg_color=1a1510&color=f5c451&line=d89a2e&point=f5c451&title_color=f5c451" alt="contribution graph" />
 
 </div>
 
@@ -88,7 +107,7 @@ A research-paper knowledge hub that turns the arXiv firehose into a readable, se
 
 ### Open to Summer 2027 Software Engineering Internships
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devanshjoshi11/)
-[![Email](https://img.shields.io/badge/Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:infojoshidevansh11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-1a1510?style=for-the-badge&logo=linkedin&logoColor=f5c451)](https://www.linkedin.com/in/devanshjoshi11/)
+[![Email](https://img.shields.io/badge/Get%20in%20Touch-1a1510?style=for-the-badge&logo=gmail&logoColor=f5c451)](mailto:infojoshidevansh11@gmail.com)
 
 </div>
