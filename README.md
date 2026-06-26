@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DJ-Joshi11/DJ-Joshi11/main/assets/header.svg" alt="Devansh Joshi" width="100%" />
+<img src="https://raw.githubusercontent.com/DJ-Joshi11/DJ-Joshi11/main/assets/header.svg?v=2" alt="Devansh Joshi" width="100%" />
 
 </div>
 
