@@ -76,6 +76,16 @@ A research-paper knowledge hub that turns the arXiv firehose into a readable, se
 ![Gemini](https://img.shields.io/badge/Gemini%20API-241c14?style=flat-square&logo=googlegemini&logoColor=d89a2e)
 ![React](https://img.shields.io/badge/React-241c14?style=flat-square&logo=react&logoColor=d89a2e)
 
+### LeetTrack &nbsp;—&nbsp; Founder & Engineer
+
+A calendar-driven spaced-repetition tracker for LeetCode practice. Logging a question number is enough — difficulty, topics, and optimal complexity are fetched and AI-enriched automatically, solved questions sync in on their own, and review checkpoints land on fixed calendar dates with auto-generated milestone exams that blend your own history with AI-suggested, API-validated questions on the same topics.
+
+![React](https://img.shields.io/badge/React-241c14?style=flat-square&logo=react&logoColor=d89a2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-241c14?style=flat-square&logo=typescript&logoColor=d89a2e)
+![Express](https://img.shields.io/badge/Express-241c14?style=flat-square&logo=express&logoColor=d89a2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-241c14?style=flat-square&logo=postgresql&logoColor=d89a2e)
+![Tailwind](https://img.shields.io/badge/Tailwind-241c14?style=flat-square&logo=tailwindcss&logoColor=d89a2e)
+
 ### Halt &nbsp;·&nbsp; CampusCompass
 
 **Halt** — a shipped Android app that helps users break doomscrolling habits, in a retro arcade aesthetic. Built end to end with persistent state and custom animations, running on a real device. &nbsp;`React Native` `Expo`
