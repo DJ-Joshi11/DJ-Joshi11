@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" role="img" aria-label="Most used languages">
+<style>text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif}</style>
+<rect x="0.5" y="0.5" width="349" height="194" rx="6" fill="#1a1510" stroke="#2a2017"/>
+<text x="25" y="35" fill="#f5c451" font-size="18" font-weight="600">Most Used Languages</text>
+<clipPath id="bar"><rect x="25" y="52" width="300" height="8" rx="4"/></clipPath>
+<g clip-path="url(#bar)"><g transform="translate(25,52)"><rect x="0.00" y="0" width="240.17" height="8" fill="#3178c6"/><rect x="240.17" y="0" width="18.81" height="8" fill="#b07219"/><rect x="258.98" y="0" width="16.18" height="8" fill="#f1e05a"/><rect x="275.16" y="0" width="15.17" height="8" fill="#e34c26"/><rect x="290.33" y="0" width="9.51" height="8" fill="#663399"/><rect x="299.84" y="0" width="0.16" height="8" fill="#384d54"/></g></g>
+<circle cx="30" cy="84" r="5" fill="#3178c6"/>
+<text x="41" y="88" fill="#cdbb98" font-size="12" font-weight="500">TypeScript <tspan fill="#998a6a">80.1%</tspan></text>
+<circle cx="185" cy="84" r="5" fill="#b07219"/>
+<text x="196" y="88" fill="#cdbb98" font-size="12" font-weight="500">Java <tspan fill="#998a6a">6.3%</tspan></text>
+<circle cx="30" cy="108" r="5" fill="#f1e05a"/>
+<text x="41" y="112" fill="#cdbb98" font-size="12" font-weight="500">JavaScript <tspan fill="#998a6a">5.4%</tspan></text>
+<circle cx="185" cy="108" r="5" fill="#e34c26"/>
+<text x="196" y="112" fill="#cdbb98" font-size="12" font-weight="500">HTML <tspan fill="#998a6a">5.1%</tspan></text>
+<circle cx="30" cy="132" r="5" fill="#663399"/>
+<text x="41" y="136" fill="#cdbb98" font-size="12" font-weight="500">CSS <tspan fill="#998a6a">3.2%</tspan></text>
+<circle cx="185" cy="132" r="5" fill="#384d54"/>
+<text x="196" y="136" fill="#cdbb98" font-size="12" font-weight="500">Dockerfile <tspan fill="#998a6a">0.1%</tspan></text>
+</svg>
