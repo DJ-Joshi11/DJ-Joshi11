@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DJ-Joshi11/DJ-Joshi11/main/assets/header.svg?v=2" alt="Devansh Joshi" width="100%" />
+<img src="./assets/header.svg" alt="Devansh Joshi" width="100%" />
 
 </div>
 
@@ -98,16 +98,19 @@ A calendar-driven spaced-repetition tracker for LeetCode practice. Logging a que
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=DJ-Joshi11&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1a1510&title_color=f5c451&icon_color=d89a2e&text_color=cdbb98&ring_color=f5c451" alt="stats" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-Joshi11&hide_border=true&layout=compact&langs_count=8&bg_color=1a1510&title_color=f5c451&text_color=cdbb98" alt="top langs" />
+<img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+<img height="165" src="./assets/top-langs.svg" alt="Top languages" />
+
+<br/><br/>
+
+<img height="165" src="./assets/streak.svg" alt="Contribution streak" />
+
+<br/><br/>
+
+<img width="700" src="./assets/activity.svg" alt="Contribution activity graph" />
 
 <br/>
-
-<img height="150" src="https://streak-stats.demolab.com?user=DJ-Joshi11&hide_border=true&background=1a1510&border=1a1510&stroke=2a2017&ring=d89a2e&fire=f5c451&currStreakLabel=f5c451&currStreakNum=f7ecd6&sideLabels=cdbb98&sideNums=f7ecd6&dates=998a6a" alt="streak" />
-
-<br/>
-
-<img width="560" src="https://github-readme-activity-graph.vercel.app/graph?username=DJ-Joshi11&hide_border=true&area=true&bg_color=1a1510&color=f5c451&line=d89a2e&point=f5c451&title_color=f5c451" alt="contribution graph" />
+<sub>Self-generated every 6 hours by a GitHub Action — no third-party stat servers.</sub>
 
 </div>
 
